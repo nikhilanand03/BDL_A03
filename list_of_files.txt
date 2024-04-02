@@ -1,0 +1,11 @@
+?C=N;O=D
+?C=M;O=A
+?C=S;O=A
+?C=D;O=A
+/data/local-climatological-data/access/
+02907099999.csv
+02950099999.csv
+02960099999.csv
+02972099999.csv
+02981099999.csv
+22707099999.csv
